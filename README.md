@@ -15,4 +15,4 @@ For convenient PowerShell experience install latest version of PowerShell and in
 ### Virtual machine
 
 ### Storage Account
-[All demonostrations here] (StorageAccount.md)
+[All demonostrations here] (../StorageAccount.md)
