@@ -10,6 +10,10 @@ Install Azure CLI. Azure CLI is preferred command line tool to work with Azure. 
 
 For convenient PowerShell experience install latest version of PowerShell and install Az module. There was big change in Azure modules on the beginning of the year 2019. You can still find two different command sets (AzureRmSomething, AzSomething). Try to use Az version whenever it is possible, it is newer with bright future. Even reworking older syntax (AzureRm) to new one will pay off in the future.
 
+## External links
+[Tagging template](https://slstudentpublic.blob.core.windows.net/governance/Tagging.xlsx)
+[Naming template](https://slstudentpublic.blob.core.windows.net/governance/NamingStandards.xlsx)
+
 ## Modules
 
 ### Virtual machine
