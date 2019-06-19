@@ -24,3 +24,6 @@ For convenient PowerShell experience install latest version of PowerShell and in
 
 ### Storage Account
 [All demonostrations here](StorageAccount.md)
+
+### Networking
+Optional advanced labs for the Network Virtula Appliance (Linux based). [Link] (https://github.com/erjosito/azure-networking-lab)
