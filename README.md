@@ -15,7 +15,7 @@ For convenient PowerShell experience install latest version of PowerShell and in
 * [Tagging template](https://slstudentpublic.blob.core.windows.net/governance/Tagging.xlsx)
 * [Naming template](https://slstudentpublic.blob.core.windows.net/governance/NamingStandards.xlsx)
 
-* [AZ-103 github HOL](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/tree/master/Instructions/Labs)
+* [AZ-103 github HOL](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/tree/master/Instructions/Labs) [All files direct download](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator/archive/master.zip)
 * [Kubernetes HOL](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure/blob/master/Instructions/Labs/AZ-203_02_lab.md)
 
 ## Modules
